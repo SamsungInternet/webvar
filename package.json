@@ -1,0 +1,25 @@
+{
+  "name": "webmr",
+  "version": "0.1.0",
+  "description": "augmented virtuality",
+  "main": "./index.js",
+  "scripts": {
+    "server": "http-server -S -p 443"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamsungInternet/webmr.git"
+  },
+  "keywords": [
+    "webmr"
+  ],
+  "author": "Yannis Gravezas <wizgrav@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamsungInternet/webmr/issues"
+  },
+  "homepage": "https://github.com/SamsungInternet/webmry#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
